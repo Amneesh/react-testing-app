@@ -10,7 +10,7 @@ const Greeting = () => {
   return (
     <div>
       <h1>Hello, {name}!</h1>
-      <button onClick={handleChangeName}>Change Greeting</button>
+      <button onClick={handleChangeName}>hello</button>
     </div>
   );
 };
